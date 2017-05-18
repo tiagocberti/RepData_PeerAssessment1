@@ -89,6 +89,9 @@ sum(is.na(df))
    dataset. The strategy does not need to be sophisticated. For
    example, you could use the mean/median for that day, or the mean
    for that 5-minute interval, etc.
+   
+   *I prefer to use the mean for 5-min interval*
+   
 3. Create a new dataset that is equal to the original dataset but with
    the missing data filled in.
 
